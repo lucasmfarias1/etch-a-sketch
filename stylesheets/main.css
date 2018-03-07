@@ -12,7 +12,7 @@ html {
 
 body {
   height: 100%;
-  background-color: #e3cdf9;
+  background-color: #efeffe;
 
 }
 
@@ -47,7 +47,6 @@ div {
 }
 
 #grid-slider {
-  width: 50vw;
-  border-radius: 0;
+  width: 80vh;
   padding: 15px 0;
 }
